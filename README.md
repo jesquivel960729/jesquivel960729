@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 My name is 👨Juan Carlos Esquivel Lamis. Here are some things about me:
 
 I live in Havana, 🇨🇺 Cuba.
@@ -11,4 +10,3 @@ In my free time, I also enjoy 💻coding (mainly in 🐍Python), 🎮playing vid
 
 
 You can find me online at 🗨️Twitter, 📱 Telegram.
--->
